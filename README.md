@@ -7,6 +7,8 @@ provider guides, insurance support, and caregiver resources.
 
 ![Calmara home dashboard](docs/images/home-dashboard.png)
 
+**Home Dashboard**
+
 ## Features
 
 - JWT authentication with login and registration
@@ -22,17 +24,17 @@ provider guides, insurance support, and caregiver resources.
 
 ## Preview
 
-### Appointment Preparation
-
 ![Calmara appointment preparation form](docs/images/appointment-prep-form.png)
 
-### Visual Social Story
+**Appointment Preparation**
 
 ![Calmara visual social story](docs/images/visual-story.png)
 
-### Jargon Simplifier
+**Visual Social Story**
 
 ![Calmara jargon simplifier](docs/images/jargon-simplifier.png)
+
+**Jargon Simplifier**
 
 ## Tech Stack
 
