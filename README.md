@@ -5,7 +5,7 @@ and their caregivers. It helps users prepare for appointments with visual social
 stories, sensory preparation, behavior translation, emergency protocols,
 provider guides, insurance support, and caregiver resources.
 
-![Calmara home preview](docs/images/home-preview.svg)
+![Calmara home dashboard](docs/images/home-dashboard.png)
 
 ## Features
 
@@ -22,7 +22,17 @@ provider guides, insurance support, and caregiver resources.
 
 ## Preview
 
-![Calmara social story preview](docs/images/social-story-preview.svg)
+### Appointment Preparation
+
+![Calmara appointment preparation form](docs/images/appointment-prep-form.png)
+
+### Visual Social Story
+
+![Calmara visual social story](docs/images/visual-story.png)
+
+### Jargon Simplifier
+
+![Calmara jargon simplifier](docs/images/jargon-simplifier.png)
 
 ## Tech Stack
 
@@ -51,19 +61,19 @@ Frontend:
 
 ```text
 calmara/
-├── backend/
-│   ├── app/
-│   ├── alembic/
-│   ├── tests/
-│   ├── main.py
-│   └── requirements.txt
-├── frontend/
-│   ├── components/
-│   ├── services/
-│   ├── src/
-│   ├── App.tsx
-│   └── package.json
-└── README.md
++-- backend/
+|   +-- app/
+|   +-- alembic/
+|   +-- tests/
+|   +-- main.py
+|   +-- requirements.txt
++-- frontend/
+|   +-- components/
+|   +-- services/
+|   +-- src/
+|   +-- App.tsx
+|   +-- package.json
++-- README.md
 ```
 
 ## Backend Setup
