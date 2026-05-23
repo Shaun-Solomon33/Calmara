@@ -1,0 +1,7 @@
+{
+  "name": "CALMARA",
+  "description": "Calmara is a smart medical appointment preparation tool designed to support autistic individuals. It generates a personalized preparation hub including a visual story, an interactive practice chat, and a sensory-friendly checklist to reduce anxiety and create a predictable, positive experience.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
