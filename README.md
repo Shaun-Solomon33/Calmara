@@ -5,9 +5,9 @@ and their caregivers. It helps users prepare for appointments with visual social
 stories, sensory preparation, behavior translation, emergency protocols,
 provider guides, insurance support, and caregiver resources.
 
-![Calmara home dashboard](docs/images/home-dashboard.png)
-
 **Home Dashboard**
+
+![Calmara home dashboard](docs/images/home-dashboard.png)
 
 ## Features
 
@@ -24,17 +24,17 @@ provider guides, insurance support, and caregiver resources.
 
 ## Preview
 
-![Calmara appointment preparation form](docs/images/appointment-prep-form.png)
-
 **Appointment Preparation**
 
-![Calmara visual social story](docs/images/visual-story.png)
+![Calmara appointment preparation form](docs/images/appointment-prep-form.png)
 
 **Visual Social Story**
 
-![Calmara jargon simplifier](docs/images/jargon-simplifier.png)
+![Calmara visual social story](docs/images/visual-story.png)
 
 **Jargon Simplifier**
+
+![Calmara jargon simplifier](docs/images/jargon-simplifier.png)
 
 ## Tech Stack
 
